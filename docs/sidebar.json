@@ -1,6 +1,6 @@
 {
   "dicom_client": {
     "Overview": "/",
-    "module name here": "/core"
+    "Connection": "/connection"
   }
 }
