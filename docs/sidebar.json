@@ -1,6 +1,6 @@
 {
   "dicom_client": {
     "Overview": "/",
-    "Connection": "/connection"
+    "Helpers": "/helpers"
   }
 }

@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Connection
-      url: /connection
+      title: Helpers
+      url: /helpers
     output: web
     title: dicom_client
   output: web

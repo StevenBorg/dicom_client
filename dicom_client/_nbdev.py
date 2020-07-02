@@ -2,9 +2,12 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"encode_multipart_related": "00_helpers.ipynb",
+         "construct_dicom_url_path": "00_helpers.ipynb",
+         "construct_retrieve_header": "00_helpers.ipynb",
+         "get_http_response_dict": "00_helpers.ipynb"}
 
-modules = []
+modules = ["helpers.py"]
 
 doc_url = "https://stevenborg.github.io/dicom_client/"
 
